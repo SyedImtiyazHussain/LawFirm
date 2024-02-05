@@ -1,0 +1,14 @@
+/* .heroHeading {
+    font-weight: bolder;
+    color: #ffffff;
+} */
+inputStyle {
+    width: 250px;
+    border-radius: 15px 0px 0px 15px;
+    height: 2.5rem;
+    background-color: gray;
+    border-color: gray;
+}
+/* .input::placeholder {
+    color: white; /* Change placeholder color to gray */
+
